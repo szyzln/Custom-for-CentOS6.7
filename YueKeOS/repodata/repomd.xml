@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
+ <revision>1464486439</revision>
+<data type="group">
+  <checksum type="sha256">8815bb65dca87495e6087c840f3249b550f76d1af35a71d14dd528fc962833a2</checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/8815bb65dca87495e6087c840f3249b550f76d1af35a71d14dd528fc962833a2-minimal-x86_64.xml"/>
+  <timestamp>1464486445.81</timestamp>
+  <size>12054</size>
+</data>
+<data type="filelists">
+  <checksum type="sha256">a2924cb3db312636d5f311d81ea54aeb729716ae5f22f9f8cf443603ee12f5a2</checksum>
+  <open-checksum type="sha256">3c8d0bd6e915eceae9c6543066a098ec8c69685e176e6c5fe1a2b56c57dd743f</open-checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/a2924cb3db312636d5f311d81ea54aeb729716ae5f22f9f8cf443603ee12f5a2-filelists.xml.gz"/>
+  <timestamp>1464486445</timestamp>
+  <size>170696</size>
+  <open-size>2063969</open-size>
+</data>
+<data type="group_gz">
+  <checksum type="sha256">faf3ac955e8ab2142f4a5c6a44e4e96cdff9eb8e47a9ace19b26fc9d81b18796</checksum>
+  <open-checksum type="sha256">8815bb65dca87495e6087c840f3249b550f76d1af35a71d14dd528fc962833a2</open-checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/faf3ac955e8ab2142f4a5c6a44e4e96cdff9eb8e47a9ace19b26fc9d81b18796-minimal-x86_64.xml.gz"/>
+  <timestamp>1464486445.81</timestamp>
+  <size>1434</size>
+</data>
+<data type="primary">
+  <checksum type="sha256">c14e5032ddd243ca2628a2b2a3428cc774aac066b76b453e71e971c81653d53f</checksum>
+  <open-checksum type="sha256">2e7496e55491aa6426fe3412a2628706042fad7c769a662088bc699e1181c507</open-checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/c14e5032ddd243ca2628a2b2a3428cc774aac066b76b453e71e971c81653d53f-primary.xml.gz"/>
+  <timestamp>1464486445</timestamp>
+  <size>256718</size>
+  <open-size>1720440</open-size>
+</data>
+<data type="primary_db">
+  <checksum type="sha256">9122f17ee6e1d2d9bbdf71560f0e52e6e009358097acfd6e88ee10aec898a2bf</checksum>
+  <open-checksum type="sha256">f6014836539e92552279b1e03ffff49ede3ba8b2573c4f74c40db58986865c60</open-checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/9122f17ee6e1d2d9bbdf71560f0e52e6e009358097acfd6e88ee10aec898a2bf-primary.sqlite.bz2"/>
+  <timestamp>1464486445.8</timestamp>
+  <database_version>10</database_version>
+  <size>537503</size>
+  <open-size>2425856</open-size>
+</data>
+<data type="other_db">
+  <checksum type="sha256">34c08c2e1efb25847c14d374fe736dfb88e299ba6b593a19114f21c508cae31d</checksum>
+  <open-checksum type="sha256">b9bba7dd8e212a874d290508c33981f1a46dbfe8e4f6dff0ccdb89c976a47db7</open-checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/34c08c2e1efb25847c14d374fe736dfb88e299ba6b593a19114f21c508cae31d-other.sqlite.bz2"/>
+  <timestamp>1464486445.33</timestamp>
+  <database_version>10</database_version>
+  <size>134393</size>
+  <open-size>570368</open-size>
+</data>
+<data type="other">
+  <checksum type="sha256">06e5710597f94625b2cd59b8d6693274b5c9a57367cabc112473463839721461</checksum>
+  <open-checksum type="sha256">9ea758584b8eb3ad753ea1a600043f78750d985940a9baa3aee7b482d9888293</open-checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/06e5710597f94625b2cd59b8d6693274b5c9a57367cabc112473463839721461-other.xml.gz"/>
+  <timestamp>1464486445</timestamp>
+  <size>149124</size>
+  <open-size>576253</open-size>
+</data>
+<data type="filelists_db">
+  <checksum type="sha256">bfcc5d298b1d01c11255417ea83e64c13e5237499db7d049d95961204b499b61</checksum>
+  <open-checksum type="sha256">4650dc97753332db2adf9bcef91de067f9fef1460894f846b65c9379792e1feb</open-checksum>
+  <location xml:base="media://1438724467.511049" href="repodata/bfcc5d298b1d01c11255417ea83e64c13e5237499db7d049d95961204b499b61-filelists.sqlite.bz2"/>
+  <timestamp>1464486445.49</timestamp>
+  <database_version>10</database_version>
+  <size>208476</size>
+  <open-size>937984</open-size>
+</data>
+</repomd>

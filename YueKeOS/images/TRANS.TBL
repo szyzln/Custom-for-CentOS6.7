@@ -1,0 +1,5 @@
+F EFIBOOT.IMG;1                                                                                                                                                                                                   	efiboot.img
+F EFIDISK.IMG;1                                                                                                                                                                                                   	efidisk.img
+F INSTALL.IMG;1                                                                                                                                                                                                   	install.img
+D PXEBOOT                                                                                                                                                                                                         	pxeboot
+F UPDATES.IMG;1                                                                                                                                                                                                   	updates.img
